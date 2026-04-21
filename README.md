@@ -36,9 +36,10 @@ The guide is split into per-topic files under [`sections/`](./sections/).
 23. [Performance & Observability](./sections/23-deep-performance-observability.md)
 24. [AWS](./sections/24-deep-aws.md)
 25. [Express.js (vs NestJS)](./sections/25-deep-expressjs-vs-nestjs.md)
+26. [JavaScript Internals](./sections/26-deep-javascript.md)
 
 ---
 
-## [Final Tips](./sections/26-final-tips.md)
+## [Final Tips](./sections/27-final-tips.md)
 
 Good luck — you've got this.
